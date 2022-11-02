@@ -15,11 +15,6 @@ docker run --detach --env MYSQL_ROOT_PASSWORD=dummypassword --env MYSQL_USER=soc
 * [Course Overview](#course-overview)
   - [Course Steps](#step-list)
   - [Expectations](#expectations)
-* [About in28Minutes](#about-in28minutes)
-  - [Our Beliefs](#our-beliefs)
-  - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
 
 ### Introduction
 
