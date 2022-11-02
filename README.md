@@ -2,8 +2,6 @@
 
 Learn how to create awesome SOAP and RESTful web services with Spring and Spring Boot.
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://www.udemy.com/course/spring-web-services-tutorial/)
-
 ## Launch MySQL as Docker Container
 
 ```
@@ -83,12 +81,5 @@ Refer each steps
 ### Troubleshooting
 - Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
 
-## Youtube Playlists - 500+ Videos
 
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
 
-## Keep Learning in28Minutes
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
-
-![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
