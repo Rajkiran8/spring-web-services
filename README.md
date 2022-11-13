@@ -28,6 +28,7 @@ In this part of the course, you will learn the basics of RESTful web services de
 
 In this part of the course, you will be using Spring (Dependency Management), Spring MVC (or Spring REST), Spring Boot, Spring Security (Authentication and Authorization), Spring Boot Actuator (Monitoring), Swagger (Documentation), Maven (dependencies management), Eclipse (IDE), Postman (REST Services Client) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
+
 While the use of SOAP Web Services is on the way down, there are still considerable number of web services using this approach. 
 
 In this part of the course, you will learn the basics of implementing SOAP Web Services developing a few web services for a course management application. You will learn to use a Contract first approach - defining XSD (XML Schema Definition) for your requests and responses. You will learn about WSDL (SOAP Header, SOAP Body and SOAP Fault), XSD (XML Schema Definition) and JAXB (Java API for XML Binding). You will implementing three SOAP web services with exception handling and basic security (with WS Security).
